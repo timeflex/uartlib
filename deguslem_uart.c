@@ -1,5 +1,4 @@
 /*
- * Copyright (C) 2016 - 2017 Timeflex Data pvt ltd
  * deguslcm_uart.h
  * Date: 20/05/2017
  * Revision:
